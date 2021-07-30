@@ -1,5 +1,6 @@
 "use strict";
 
+// Variable, rw(read/write)
 console.log(name);
 console.log(age);
 
@@ -22,6 +23,7 @@ console.log(globalName);
 }
 console.log(age);
 
+// Constant, r(Read only)
 const daysInWeek = 7;
 
 const count = 17;
